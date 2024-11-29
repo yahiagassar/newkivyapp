@@ -1,7 +1,1 @@
-kivy
-BoxLayout
-Label
-TextInput
-Button
-autoclass
-android
+flet
